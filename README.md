@@ -1,4 +1,4 @@
-# orderFood
+# PickYourFood
 **A System to Order Food Online based on Spring, Hibernate and React**  
 * Applied **Spring** framework with annotations to achieve the IoC idea and decouple all the components, **Spring MVC** to dispatch the **Rest API** requests, and **Spring Security** to provide authentication and authorization
 * Used **Hibernate** to operate and store the data(e.g., customer, restaurants, etc) in **AWS RDS MySQL** database
